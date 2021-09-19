@@ -1,0 +1,29 @@
+header {
+    height: 42px; 
+    background-color: #dee5f013; 
+}
+
+main {
+    height: 90vh;
+    background-color: #44040413; 
+    display: flex;
+    justify-content: center;
+}
+
+
+.menu1 {
+    background-color: #dee5f013; 
+}
+
+
+.menu2 {
+    background-color: rgba(73, 100, 250, 0.631);
+}
+
+.menu3 {
+    background-color: rgb(218, 15, 167);
+}
+
+.menu4 {
+    background-color: rgba(73, 100, 250, 0.631);
+}

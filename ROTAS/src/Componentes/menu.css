@@ -1,0 +1,60 @@
+.menu nav ul { 
+    margin: 0;
+    padding: 0;
+}
+.menu {
+    height: 42px;
+    border: 1px solid rgb(188, 192, 132);
+    /* padding-bottom: 8px; */
+    font-size: 16px;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    display: flex;
+    justify-content:center;
+    
+}
+
+.menu ul li{
+    display: inline;
+}
+
+.menu ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu ul li a:hover {
+    font-weight: bold;
+    font-size: 16px;
+    color: blue;
+}
+
+.menu ul {
+    display:flex;
+}    
+
+.d0, .d1, .d2, .d3, .d4, .d5 {
+    padding: 10px 20px 10px 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid rgb(188, 192, 132);
+}
+
+
+.d1 {
+    background-color: green;
+}
+
+.d2 {
+    background-color: rgb(218, 15, 167);
+}
+
+.d3 {
+    background-color: rgba(73, 100, 250, 0.631);
+}
+.d4 {
+    background-color: yellow;
+}
+
